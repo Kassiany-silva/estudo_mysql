@@ -1,0 +1,7 @@
+ create table conforne(
+    -> n_numeforne int not null auto_increment,
+    -> c_codiforne varchar(10),
+    -> c_nomeforne varchar(100),
+    -> c_razaforne varchar(100),
+    -> c_foneforne varchar(20),
+    -> primary key(n_numeforne));
